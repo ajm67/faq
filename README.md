@@ -79,3 +79,12 @@ http://agiledata.org/essays/tdd.html
 
 ## Free Alternative:
 https://code.visualstudio.com/
+
+
+
+# to run the FAQ project
+1) git clone NJIT-WIS/faq.git from github
+2) cd into FAQ and run composer install
+3) cp .env.example to .env
+4) setup database with SQLite or other
+
