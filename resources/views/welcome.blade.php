@@ -81,11 +81,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel // Aidan McGourty
+                    Laravel   //   Aidan
                 </div>
-
+                <br>
+                <br>
                 <div class="links">
-                    <a href="https://laravel.com/docs">Home</a>
+                    <a href="https://polar-escarpment-93419.herokuapp.com/home">Q/A Home</a>
+                    <br>
+                    <br>
                     <br>
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
