@@ -13,6 +13,7 @@ class AnswerTest extends TestCase
      *
      * @return void
      */
+    /** this one
     public function testSave()
     {
         $user = $user = factory(\App\User::class)->make();
@@ -25,4 +26,5 @@ class AnswerTest extends TestCase
         $answer->question()->associate($question);
         $this->assertTrue($answer->save());
     }
+     */
 }
