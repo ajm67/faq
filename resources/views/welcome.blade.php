@@ -86,13 +86,11 @@
                 <br>
                 <br>
                 <div class="links">
-                    <a href="https://polar-escarpment-93419.herokuapp.com/home">Q/A Home</a>
                     <br>
                     <br>
-                    <br>
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="{{ route('login') }}">Login</a>
+                    <a href="{{ url('/register') }}">Register</a>
+
                 </div>
             </div>
         </div>
